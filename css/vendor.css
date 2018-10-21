@@ -18,14 +18,14 @@
  */
 
 /* clearfix */
-/*.owl-carousel .owl-wrapper:after {
+.owl-carousel .owl-wrapper:after {
 	content: ".";
 	display: block;
 	clear: both;
 	visibility: hidden;
 	line-height: 0;
 	height: 0;
-}*/
+}
 
 /* display none until init */
 .owl-carousel {
